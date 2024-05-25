@@ -1,0 +1,21 @@
+{
+  "name": "fatima_mudassir93-student-management-system",
+  "version": "2.0.3",
+  "description": "its a student management system where you can access student ID, Enrolled in coarse, etc",
+  "main": "index.js",
+  "type": "module",
+  "access": "public",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.20"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
